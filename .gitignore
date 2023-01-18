@@ -1,10 +1,8 @@
-
-node_modules
+inode_modules
 .DS_Store
-
 out
 cache
 package-lock.json
-
 bin
-lib
+
+*.json
