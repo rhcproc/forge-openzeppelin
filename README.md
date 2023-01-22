@@ -21,6 +21,16 @@ forge install openzeppelin/openzeppelin-contracts
 forge build
 forge test
 ```
+or 
+
+```
+git clone https://github.com/rhcproc/forge-openzeppelin
+cd forge-openzeppelin
+forge install openzeppelin/openzeppelin-contracts
+forge build
+forge test
+```
+
 
 ---
 
