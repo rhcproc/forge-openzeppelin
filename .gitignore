@@ -5,4 +5,5 @@ cache
 package-lock.json
 bin
 
+lib
 *.json
